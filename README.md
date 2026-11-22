@@ -1,20 +1,14 @@
-# 🗄️ Formação SQL Database Specialist
+# 🗄️ SQL Database Specialist
 
-![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 🎯 Objective
 
-## 🎯 Objetivo
+This repository was created to document and organize my learning journey in the **SQL Database Specialist** program. The goal is to build practical and theoretical knowledge of relational databases, progressing from data modeling fundamentals and SQL queries to advanced MySQL techniques, transaction control, and database management.
 
-Este repositório foi criado para documentar e organizar minha jornada de estudos na **Formação SQL Database Specialist**. O foco é consolidar conhecimentos práticos e teóricos sobre bancos de dados relacionais, evoluindo desde os fundamentos de modelagem e consultas SQL até técnicas avançadas com MySQL, controle de transações e gerenciamento de bancos de dados.
+Scripts and study materials will be added progressively as I advance through each module.
 
-Os scripts e materiais serão adicionados progressivamente conforme o avanço em cada módulo.
+## 📂 Repository Structure
 
----
-
-## 📂 Estrutura do Repositório
-
-O projeto está dividido em **3 módulos principais**, organizados em ordem sequencial de aprendizado:
+The project is divided into **3 main modules**, organized in sequential order of learning:
 
 ```text
 Formacao-SQL-Database-Specialist/
@@ -28,43 +22,43 @@ Formacao-SQL-Database-Specialist/
 └── 03 - Transactions and Database Management/
 ```
 
----
+## 📚 Module Breakdown
 
-## 📚 Detalhamento dos Módulos
+### 01 - Exploring SQL Database Queries (`🔄 In Progress`)
 
-### 01 - Exploring SQL Database Queries (`🔄 Em andamento`)
-Módulo introdutório focado nos fundamentos de bancos de dados relacionais e na escrita das primeiras consultas SQL.
-* **01 - Relational Model and Relational Mapping with Databases:** Estudos sobre o modelo relacional, estruturação de tabelas e mapeamento de bancos de dados (`Formacao-SQL-Database-Specialist.sql`).
-* **02 - Getting Started with SQL:** Primeiros passos práticos com SQL, incluindo inserção de dados (`Populando_Data_Base.sql`) e consultas utilizando apelidos/aliases (`Realizando_Queries_com_Alias.sql`).
+Introductory module focused on relational database fundamentals and writing initial SQL queries.
 
-### 02 - Advanced Techniques in Databases with MySQL (`⏳ Em breve`)
-Módulo dedicado a técnicas avançadas de manipulação, otimização e recursos específicos de bancos de dados utilizando o **MySQL**.
+* **01 - Relational Model and Relational Mapping with Databases:** Studies on the relational model, table structuring, and database mapping (`Formacao-SQL-Database-Specialist.sql`).
+* **02 - Getting Started with SQL:** First practical steps with SQL, including data insertion (`Populando_Data_Base.sql`) and queries using aliases (`Realizando_Queries_com_Alias.sql`).
 
-### 03 - Transactions and Database Management (`⏳ Em breve`)
-Módulo voltado ao gerenciamento de bancos de dados, integridade das operações e controle de transações em SQL.
+### 02 - Advanced Techniques in Databases with MySQL (`⏳ Coming Soon`)
 
----
+Module dedicated to advanced manipulation techniques, optimization, and specific database features using **MySQL**.
 
-## 🛠️ Tecnologias e Ferramentas
+### 03 - Transactions and Database Management (`⏳ Coming Soon`)
+
+Module focused on database management, operational integrity, and transaction control in SQL.
+
+## 🛠️ Technologies & Tools
 
 * **SQL** (Structured Query Language)
 * **MySQL**
-* **Git & GitHub** para versionamento e organização dos estudos
+* **Git & GitHub** for version control and study organization
 
----
+## 🚀 How to Use This Repository
 
-## 🚀 Como utilizar este repositório
-
-Para explorar os scripts localmente, você pode clonar o repositório com o comando:
+To explore the scripts locally, clone the repository using the command below:
 
 ```bash
 git clone https://github.com/Oliv-Patrik/Formacao-SQL-Database-Specialist.git
 ```
 
-Navegue até a pasta do módulo desejado e abra os arquivos `.sql` no seu gerenciador de banco de dados de preferência (como MySQL Workbench, DBeaver ou via terminal).
+Navigate to the desired module folder and open the `.sql` files in your preferred database management tool (such as MySQL Workbench, DBeaver, or via terminal).
 
----
+## 👤 Author & Contact
 
-## 👤 Autor
+Developed by **Patrik Oliveira**.
 
-Desenvolvido por **Patrik Oliveira** ([Oliv-Patrik](https://github.com/Oliv-Patrik)).
+* **GitHub:** [Oliv-Patrik](https://github.com/Oliv-Patrik)
+* **LinkedIn:** [oliveira-patrik](https://www.linkedin.com/in/oliveira-patrik/)
+* **Email:** [patrik.lopes.oliv@gmail.com](mailto:patrik.lopes.oliv@gmail.com)
